@@ -1,0 +1,18 @@
+[
+  {
+    "vehicleName": "car",
+    "initialPositionX": "200",
+    "initialPositionY": "600",
+    "speed": "21",
+    "direction": "Upwards",
+    "selectedScenario": "3"
+  },
+  {
+    "vehicleName": "bike",
+    "initialPositionX": "211",
+    "initialPositionY": "333",
+    "speed": "98",
+    "direction": "Downwards",
+    "selectedScenario": "3"
+  }
+]

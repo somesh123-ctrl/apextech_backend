@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Scenario 1",
+    "time": "10",
+    "id": 1,
+    "vehicles": [
+      {
+        "vehicleName": "bike",
+        "initialPositionX": 350,
+        "initialPositionY": 100,
+        "speed": "5",
+        "direction": "Backwards",
+        "selectedScenario": "1"
+      },
+      {
+        "vehicleName": "car",
+        "initialPositionX": 19,
+        "initialPositionY": 40,
+        "speed": "2",
+        "direction": "Towards",
+        "selectedScenario": "1"
+      }
+    ]
+  },
+  {
+    "name": "Scenario 2",
+    "time": "15",
+    "id": 2,
+    "vehicles": [
+      {
+        "vehicleName": "car",
+        "initialPositionX": 50,
+        "initialPositionY": 50,
+        "speed": "10",
+        "direction": "Towards",
+        "selectedScenario": "2"
+      },
+      {
+        "vehicleName": "Truck",
+        "initialPositionX": 380,
+        "initialPositionY": 380,
+        "speed": "2",
+        "direction": "Backwards",
+        "selectedScenario": "2"
+      }
+    ]
+  }
+]
